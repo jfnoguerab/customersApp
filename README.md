@@ -23,7 +23,10 @@ DB_DATABASE=test
 DB_USERNAME=root
 DB_PASSWORD=1234
 ```
-2. Descargar dependencias de Lumen: composer update
+2. Descargar dependencias de Lumen:
+```
+composer update
+```
 3. Iniciar el backend en un servidor de *PHP >= 7.1.3*
 
 ## Frontend
@@ -35,4 +38,4 @@ La pagina web esta implementada en html y usa AngularJS, para conectarse con el 
 ## Documentación
 Los diagramas y las pruebas tanto del backend como del frontend se encuentran en el siguiente documento:
 
-<p><a href="https://jfnoguerab.github.io/customersApp/documentation/CustomersApp.pdf">CustomersApp.pdf</a></p>
+<p><a href="https://github.com/jfnoguerab/customersApp/raw/master/documentation/CustomersApp.pdf">CustomersApp.pdf</a></p>
