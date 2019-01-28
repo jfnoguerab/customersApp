@@ -1,0 +1,8 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+/beitech-be/vendor
+/beitech-be/.idea
+/beitech-be/Homestead.json
+/beitech-be/Homestead.yaml
